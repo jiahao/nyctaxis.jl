@@ -1,0 +1,13 @@
+The data analysis scripts in this submission are written in Julia (julialang.org).
+
+To run the analyses, go to the src/ directory and run julia.
+
+At the Julia prompt, run all the analyses with
+
+julia> include("runall.jl")
+
+You may need to install the packages imported in setup.jl.
+
+The output is written to screen and plots are saved to plots/
+
+
